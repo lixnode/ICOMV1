@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ICOM_V1/1.0.0": {
+        "dependencies": {
+          "Ivi.Visa": "7.2.0.0",
+          "NationalInstruments.Common": "19.1.40.49152",
+          "NationalInstruments.Visa": "22.5.0.49212"
+        },
+        "runtime": {
+          "ICOM_V1.dll": {}
+        }
+      },
+      "Ivi.Visa/7.2.0.0": {
+        "runtime": {
+          "Ivi.Visa.dll": {
+            "assemblyVersion": "7.2.0.0",
+            "fileVersion": "7.2.7619.0"
+          }
+        }
+      },
+      "NationalInstruments.Common/19.1.40.49152": {
+        "runtime": {
+          "NationalInstruments.Common.dll": {
+            "assemblyVersion": "19.1.40.49152",
+            "fileVersion": "19.1.40.49152"
+          }
+        }
+      },
+      "NationalInstruments.Visa/22.5.0.49212": {
+        "runtime": {
+          "NationalInstruments.Visa.dll": {
+            "assemblyVersion": "22.5.0.49212",
+            "fileVersion": "22.5.0.49212"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICOM_V1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ivi.Visa/7.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NationalInstruments.Common/19.1.40.49152": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NationalInstruments.Visa/22.5.0.49212": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

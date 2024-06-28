@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICOM_V1", "ICOM_V1\ICOM_V1.csproj", "{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Setup", "Setup\Setup.aiproj", "{7A9F7075-2758-476E-813E-566ACB567A35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}.All|Any CPU.Build.0 = Release|Any CPU
+		{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9F7075-2758-476E-813E-566ACB567A35}.All|Any CPU.ActiveCfg = DefaultBuild
+		{7A9F7075-2758-476E-813E-566ACB567A35}.All|Any CPU.Build.0 = DefaultBuild
+		{7A9F7075-2758-476E-813E-566ACB567A35}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{7A9F7075-2758-476E-813E-566ACB567A35}.Debug|Any CPU.Build.0 = DefaultBuild
+		{7A9F7075-2758-476E-813E-566ACB567A35}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{7A9F7075-2758-476E-813E-566ACB567A35}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56404A73-A360-4671-BA5F-57C4B106AE02}
+	EndGlobalSection
+EndGlobal

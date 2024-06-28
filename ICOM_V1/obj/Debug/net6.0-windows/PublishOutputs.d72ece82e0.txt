@@ -1,0 +1,16 @@
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\ICOM_V1.exe
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\ICOM_V1.dll
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\ICOM_V1.deps.json
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\ICOM_V1.runtimeconfig.json
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\ICOM_V1.pdb
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\System.IO.Ports.dll
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\Ivi.Visa.dll
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\NationalInstruments.Common.dll
+D:\Program Files\Windows App\ICOM_V1\ICOM_V1\bin\Release\net6.0-windows\publish\NationalInstruments.Visa.dll
