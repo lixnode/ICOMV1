@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICOM_V1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d9b4935cc3933fc311e3ac8202836175810fbde")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICOM_V1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICOM_V1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

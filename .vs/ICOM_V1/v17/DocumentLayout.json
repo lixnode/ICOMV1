@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Program Files\\Windows App\\ICOM_V1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|d:\\program files\\windows app\\icom_v1\\icom_v1\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|solutionrelative:icom_v1\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|d:\\program files\\windows app\\icom_v1\\icom_v2\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|solutionrelative:icom_v2\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|d:\\program files\\windows app\\icom_v1\\icom_v1\\icom_v1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|solutionrelative:icom_v1\\icom_v1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|d:\\program files\\windows app\\icom_v1\\icom_v2\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|solutionrelative:icom_v2\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A9F7075-2758-476E-813E-566ACB567A35}|Setup\\Setup.aiproj|D:\\Program Files\\Windows App\\ICOM_V1\\Setup\\Setup.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}",
-      "RelativeMoniker": "D:0:0:{7A9F7075-2758-476E-813E-566ACB567A35}|Setup\\Setup.aiproj|solutionrelative:Setup\\Setup.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}"
+      "AbsoluteMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|D:\\Program Files\\Windows App\\ICOM_V1\\icom_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|solutionrelative:icom_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|d:\\program files\\windows app\\icom_v1\\icom_v1\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|solutionrelative:icom_v1\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|d:\\program files\\windows app\\icom_v1\\icom_v2\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|solutionrelative:icom_v2\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|d:\\program files\\windows app\\icom_v1\\icom_v1\\helper\\visahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|solutionrelative:icom_v1\\helper\\visahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|d:\\program files\\windows app\\icom_v1\\icom_v2\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|solutionrelative:icom_v2\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|d:\\program files\\windows app\\icom_v1\\icom_v1\\enums\\phytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFA22CE-FF2D-4F68-AE34-23D268A73F1E}|ICOM_V1\\ICOM_V1.csproj|solutionrelative:icom_v1\\enums\\phytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|d:\\program files\\windows app\\icom_v1\\icom_v2\\core\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|solutionrelative:icom_v2\\core\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|D:\\Program Files\\Windows App\\ICOM_V1\\icom_v2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DD0DC85-7EE8-422C-89F5-8467DBD87045}|ICOM_V2\\ICOM_V2.csproj|solutionrelative:icom_v2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ICOM_V2\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\View\\MainWindow.xaml",
+              "RelativeToolTip": "ICOM_V2\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-02T09:10:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICOM_V1",
-              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\ICOM_V1.csproj",
-              "RelativeDocumentMoniker": "ICOM_V1\\ICOM_V1.csproj",
-              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\ICOM_V1.csproj",
-              "RelativeToolTip": "ICOM_V1\\ICOM_V1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-28T02:49:57.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Setup.aip",
-              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\Setup\\Setup.aip",
-              "RelativeDocumentMoniker": "Setup\\Setup.aip",
-              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\Setup\\Setup.aip",
-              "RelativeToolTip": "Setup\\Setup.aip",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI5SURBVDhPnZRLSFRRHMavTYtEBBMqa1G0qwjBaFW4sEhXGdJLKjQIIhdFDwJXbYQIkYg2JYFINREZJYIYoUUDFVFhBRZBEDHUbHpqEqjN7fedxzQz3omxD373\u002B5/7\u002BO45555zS4IsTZ5ZeRmrhmG4B4my9vc/8eIUhmF\u002BYAqrsi2jGXgCChePeMEUXlCZQMJWY69tq6AmDnxqr05OL15P3f/wQpNemKN5zqXNzv\u002BlMcLq8T4Y3dh2W8E5KibwF/SAhj4Cm0BaCwlCG23TygyZ4Sr4MyxUO09t9R/OLquMTYy0VAylzn3Z9ZhzlfaSkV5Yy/Cfq\u002BF7uA6yw77DtC2Dd7D76\u002B/y84S9pM4Ok0qhh57G1PCBdc6lKzuSHQ2Xvm3V/LyBzrsrjh\u002BDI9Q3dEOEtNTM0H2gvtZHWwZD4\u002Bmy3r7xuhPU/VADg1ALY1BIe3UwgcxRORx8O7W8hrAXnCpprbjThbfoutMw89SJx21zljbo4Ht4CgYPp44\u002BZbgPqFfFf2xZM5lesI36JNyCZyB1O8/XEh18oJlQNB8WqZgJY9ebkqdL2RldsB38Ig6d58tk\u002BUBtuSgdcp6tqHOSyTDrkE9\u002BFTOTGqFrcNGWJmyPLWcpzhzv8z286TxKCkg4CoVJJsMHDsArW/6X9KwybCBdTWP7QdtortIzrS4j00OFjmLNMJdQ3dvMs1q7RplAiQvqtnZEMcPXPfopmKF65fyxvfjqepH25k7QPl8KkpbGfdD/cMAP86\u002BC4A9iGq/nqQko9wAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-06-28T02:47:16.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PHYType.cs",
-              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\Enums\\PHYType.cs",
-              "RelativeDocumentMoniker": "ICOM_V1\\Enums\\PHYType.cs",
-              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\Enums\\PHYType.cs",
-              "RelativeToolTip": "ICOM_V1\\Enums\\PHYType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ICOM_V2\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ICOM_V2\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAQwLgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:39:17.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VisaHelper.cs",
-              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\Helper\\VisaHelper.cs",
-              "RelativeDocumentMoniker": "ICOM_V1\\Helper\\VisaHelper.cs",
-              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\Helper\\VisaHelper.cs",
-              "RelativeToolTip": "ICOM_V1\\Helper\\VisaHelper.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:38:03.801Z",
+              "WhenOpened": "2024-07-03T01:12:51.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.cs",
-              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\View\\MainWindow.cs",
-              "RelativeDocumentMoniker": "ICOM_V1\\View\\MainWindow.cs",
-              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\View\\MainWindow.cs",
-              "RelativeToolTip": "ICOM_V1\\View\\MainWindow.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAYwKEAAAA5AAAA",
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ICOM_V2\\Core\\RelayCommand.cs",
+              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "ICOM_V2\\Core\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:16:13.75Z",
+              "WhenOpened": "2024-07-03T01:09:40.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.cs [Design]",
-              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\View\\MainWindow.cs",
-              "RelativeDocumentMoniker": "ICOM_V1\\View\\MainWindow.cs",
-              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V1\\View\\MainWindow.cs [Design]",
-              "RelativeToolTip": "ICOM_V1\\View\\MainWindow.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ICOM_V2\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ICOM_V2\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:11:43.883Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-03T01:08:06.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\Core\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ICOM_V2\\Core\\ViewModelBase.cs",
+              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\Core\\ViewModelBase.cs",
+              "RelativeToolTip": "ICOM_V2\\Core\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:07:13.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\Program.cs",
+              "RelativeDocumentMoniker": "ICOM_V2\\Program.cs",
+              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\Program.cs",
+              "RelativeToolTip": "ICOM_V2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:26:09.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\App.xaml",
+              "RelativeDocumentMoniker": "ICOM_V2\\App.xaml",
+              "ToolTip": "D:\\Program Files\\Windows App\\ICOM_V1\\ICOM_V2\\App.xaml",
+              "RelativeToolTip": "ICOM_V2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-02T09:11:14.394Z",
+              "EditorCaption": ""
             }
           ]
         }

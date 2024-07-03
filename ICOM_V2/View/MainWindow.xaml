@@ -1,0 +1,83 @@
+﻿<Window x:Class="ICOM_V2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ICOM_V2"
+        mc:Ignorable="d"
+        Title="ICOM V2.0.1" Height="450" Width="800" 
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" Grid.ColumnSpan="2">
+            <MenuItem Header="File">
+                <MenuItem Header="Open"></MenuItem>
+                <MenuItem Header="Save"></MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <!--Set resource name-->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Vertical" Grid.Row="0">
+                <TextBlock 
+                    Text="Resource Name" FontSize="13px" FontWeight="Bold"
+                    FontFamily="Arial" Margin="0 8 0 0"
+                />
+                <TextBox HorizontalAlignment="Left" FontSize="13px" FontFamily="Arial" 
+                         Height="20"
+                         Text="{Binding ResourceName}" Width="305"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1">
+                <Button HorizontalAlignment="Left" Width="100" Height="30" Margin="0 0 0 0"
+                    Command="{Binding OpenCommand}">Open</Button>
+                <Button HorizontalAlignment="Left" Width="100" Height="30" Margin="8 0 0 0"
+                    Command="{Binding CloseCommand}">Close</Button>
+            </StackPanel>
+        </Grid>
+        
+        <!--Commands Session-->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Row="0" Orientation="Horizontal">
+                    <TextBox FontFamily="Arial" FontSize="13px" Height="30px" Width="400px"
+                                TextAlignment="Left" VerticalContentAlignment="Center" Text="{Binding CmdString}"></TextBox>
+                </StackPanel>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="100"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <ListBox Grid.Column="0" ItemsSource="{Binding QueryList}">
+
+                    </ListBox>
+
+                    <StackPanel Grid.Column="1" Orientation="Vertical">
+                        <Button Height="36" Margin="0 0 0 8" Command="{Binding WriteCMD}">WriteCMD</Button>
+                        <Button Height="36" Margin="0 0 0 8" Command="{Binding ReadCMD}">ReadCMD</Button>
+                        <Button Height="36" Margin="0 0 0 8" Command="{Binding ClearHistory}">Clear</Button>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
